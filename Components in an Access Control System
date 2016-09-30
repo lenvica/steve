@@ -1,0 +1,35 @@
+An Access Control Systems include the following components:
+1. A Master Device (Employees punch on this device while going IN to the restricted area)
+2. A Slave Device (Employees punch on this device while going OUT of the restricted area)
+3. An Electro Magnetic Door Lock(EM Lock)
+
+A connection diagram of a typical Access Control System is below:
+Access Control System
+
+Prerequisites
+
+1. Power: The device connects to 220V Power supply through an adaptor. A power source should be available close to the proposed location of the device. There should not be any interruption in the power supply, so a UPS is recommended.
+
+2. LAN: The device should be connected to the LAN so that the software can communicate with the device. The client should provide connectivity to the hub/switch/modem of the LAN with a network cable.
+
+3. IP Address: The device should be provided with a unique IP address within the LAN. Consult your network administrator on this.
+
+Choosing the location
+
+1. The Master device should be installed at the entrance of the restricted area, and the slave device should be installed at the exit. The devices should be located close to the door they are controlling. The arrangement should be in such a way that it is easy for employees to punch as they walk in or out.
+
+2. It is recommended to fix the devices at a distance of 4 Feet from the floor level.
+
+Fixing the device
+
+The device should be fixed on a wall firmly so that there are no shaking while punching. It is recommended to make the installation at the supervision of an access control expert. The devices are shipped with screws and fixtures required in the installation. The installation procedure requires drilling holes on the wall.
+
+Cabling
+
+It is recommended to conceal the device in the wall or in a wooden box so that it’s not possible for users to unplug the Power or LAN cables from the device.
+
+Punching
+
+In a fingerprint access control system it’s recommended to register at least 1 finger from each hand. Fingerprint registration should be done carefully. The devices are capable of showing the quality of the registration. Ensure that the registration quality is close to 100%. If fingerprint registration is not done properly, there could be problems identifying, when the employee punches. If an employee continues to have problems punching, it’s recommended to delete the fingerprints and re-register again, ensuring good registration quality. In some cases, though very rare, the fingerprints may be impossible to be read. This can happen if the employees are working with chemicals, or if their fingers are too dry. In such instances, proximity(RFID) cards may be issued to those employees.
+Attend HRM is an HR software that can automate all these and much more. You can download a free version of Attend HRM from http://www.lenvica.com.
+Lenvica supplies comprehensive Human Resource Software Solutions for complete HR Management. With years of experience specializing in development of HR software, the Lenvica software portfolio include Attendance Software, Payroll Software, Leave Management, Shift Management, Project Management solutions, developed to solve complex HR software needs of small to large organizations.
